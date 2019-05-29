@@ -1,0 +1,25 @@
+Request
+
+General Properties 
+Name	SSL_Portal-Pichincha-BPM-Externo
+
+Certificate Properties 
+Issuer	Certificare Authority
+Common Name	 obpqa.bancopichincha.ws
+Division	 VICEPRESIDENCIA DE TECNOLOGIA
+Organization BANCO PICHINCHA S.A
+Locality	 Bogota
+State Or Province	Cundinamarca
+Country	 CO
+E-mail Address	 admin.pichincha@pichincha.com.co
+Subject Alternative Name	email:admin.pichincha@pichincha.com.co
+
+Certificate Signing Request Attributes 
+Administrator E-mail Address	admin.pichincha@pichincha.com.co
+Challenge Password	Xgc4whFtvAp6lLe
+Confirm Password	Xgc4whFtvAp6lLe
+
+Key Properties 
+Key Type	RSA
+Size	 2048 bits
+

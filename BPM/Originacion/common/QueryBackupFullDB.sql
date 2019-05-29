@@ -1,0 +1,8 @@
+USE [PichinchaBPMExt]
+GO
+EXEC PRC_BACKUP_DB_QA;
+
+RESTORE VERIFYONLY FROM DISK = 'I:\Backup\PichinchaBPMExt_2018-12-27 11-37-17.bak';
+
+
+ls \\10.160.88.72\i$\backup\
